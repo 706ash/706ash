@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashden Mascarenhas
 
-I'm a Computer Engineering student passionate about full-stack development, AI/ML, and building tech for real-world impact. Currently interning at **Fluxatic Global Goa**, where I'm building a platform to promote local tourism through events — showcasing Goa's vibrant cultural and community spaces.
+I'm a Computer Engineering student passionate about full-stack development, AI/ML, and building tech for real-world impact. Currently interning at **Fluxatic Global Goa**, where I'm building a platform to promote local tourism through events showcasing Goa's vibrant cultural and community spaces.
 
 ---
 
