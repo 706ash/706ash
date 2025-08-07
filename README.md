@@ -1,53 +1,42 @@
-<h1 align="center">Hi, I'm 706ash 👋</h1>
+### Hi there, I'm Ashden Mascarenhas
 
-<p align="center">
-  <b>AI Developer | Full-Stack Builder | Open Source Enthusiast</b><br/>
-  Working on automation, intelligent agents, and secure developer tooling.
-</p>
+I'm a Computer Engineering student passionate about full-stack development, AI/ML, and building tech for real-world impact. Currently interning at **Fluxatic Global Goa**, where I'm building a platform to promote local tourism through events — showcasing Goa's vibrant cultural and community spaces.
 
 ---
 
-### 🧠 About Me
-
-- 🛠️ Building: AI automation tools, API key security (KeySentinel), character-based platforms
-- 🧪 Experimenting with: LLMs, grounding models, Agentic workflows
-- 🧰 Tech Stack: React Native, Node.js, Supabase, Convex, Resend, Python, LangChain
-- 🌍 Based in: India
-- 🧑‍💻 Hackathons: Active participant in AI4Good, Devfolio, Convex Hackathons
+### 🚀 Current Focus
+- Building a local events and tourism platform using modern web technologies
+- Exploring AI agents to deliver personalized, engaging user experiences
+- Hands-on learning in content strategy, UI/UX, prototyping, and digital marketing
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=706ash&show_icons=true&theme=radical&border_radius=10&count_private=true&hide_title=false)
+![Ash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=706ash&show_icons=true&theme=radical)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=706ash&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-### 💡 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=706ash&layout=compact&theme=radical&hide=html,css,shell,scss&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=706ash&layout=compact&theme=radical)
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧊 3D Contribution Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=706ash&theme=gruvbox&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+[![](https://raw.githubusercontent.com/yunyoujun/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/yunyoujun/github-profile-3d-contrib)
 
 ---
 
-### 📫 Connect with Me
+### 🧾 Summary Cards
 
-- GitHub Discussions: [@706ash](https://github.com/706ash)
-- Email: [ash.dev@pm.me](mailto:ash.dev@pm.me)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg)
+
+---
+
+### 🔗 Let's Connect
+- GitHub: [706ash](https://github.com/706ash)
+- LinkedIn: [Your LinkedIn URL Here]
