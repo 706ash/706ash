@@ -1,13 +1,39 @@
-name: Metrics
+name: GitHub Metrics
+
 on:
-  schedule: [{cron: "0 */6 * * *"}] # every 6 hours
-  workflow_dispatch:
+  schedule: [{ cron: "0 */6 * * *" }] # Runs every 6 hours
+  workflow_dispatch:                # Allows manual runs from Actions tab
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          # Token from your classic PAT stored as secret
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output file
+          filename: test-metrics.svg
+
+          # Commit config
+          committer_branch: main
+          committer_message: "chore: update metrics"
+          committer_gist: no
+          committer_username: ash706
+          committer_email: ash706@users.noreply.github.com
+
+          # Base sections
+          base: header, activity, community, repositories, metadata
+
+          # Popular plugins
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_threshold: 1%
+          
+          plugin_stars: yes
+          plugin_followup: yes
+          
+          # Optional debugging
+          config_timezone: Asia/Kolkata
+          config_output: markdown, json
