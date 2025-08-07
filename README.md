@@ -4,31 +4,31 @@ I'm a Computer Engineering student passionate about full-stack development, AI/M
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 - Building a local events and tourism platform using modern web technologies
 - Exploring AI agents to deliver personalized, engaging user experiences
 - Hands-on learning in content strategy, UI/UX, prototyping, and digital marketing
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=706ash&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-### 💡 Top Languages
+### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=706ash&layout=compact&theme=radical&hide=html,css,shell)
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=706ash&theme=gruvbox&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🧰 Tools & Tech
+### Tools & Tech
 
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
