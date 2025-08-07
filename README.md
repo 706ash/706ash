@@ -10,33 +10,30 @@ I'm a Computer Engineering student passionate about full-stack development, AI/M
 - Hands-on learning in content strategy, UI/UX, prototyping, and digital marketing
 
 ---
+### 📊 GitHub Stats
 
-### 📈 GitHub Stats
-
-![Ash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=706ash&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=706ash&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=706ash&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=706ash&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-### 🧊 3D Contribution Graph
+### 💡 Top Languages
 
-[![](https://raw.githubusercontent.com/yunyoujun/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/yunyoujun/github-profile-3d-contrib)
-
----
-
-### 🧾 Summary Cards
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=706ash&layout=compact&theme=radical&hide=html,css,shell)
 
 ---
 
-### 🔗 Let's Connect
-- GitHub: [706ash](https://github.com/706ash)
-- LinkedIn: [Your LinkedIn URL Here]
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=706ash&theme=gruvbox&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🧰 Tools & Tech
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
