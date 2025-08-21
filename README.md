@@ -1,5 +1,9 @@
 ### Hi there, I'm Ashden Mascarenhas
 
+https://github.com/user-attachments/assets/06226c58-5117-4469-bc3e-ede1242133e2
+
+
+
 I'm a Computer Engineering student passionate about full-stack development, AI/ML, and building tech for real-world impact. Currently interning at **Fluxatic Global Goa**, where I'm building a platform to promote local tourism through events showcasing Goa's vibrant cultural and community spaces.
 
 ---
